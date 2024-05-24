@@ -1,0 +1,26 @@
+5
+Arte_Y_Creatividad Diseño Gráfico; Diseño y Decoración de Interiores; Diseño de Jardines; Diseño de Modas; Diseño de Joyas; Artes Plásticas Pintura,Escultura,Danza,Teatro,Artesanía,Cerámica); Dibujo Publicitario; Restauración y Museología; Modelaje; Fotografía; Fotografía Digital; Gestión Gráfica y Publicitaria; Locución y Publicidad; Actuación; Camarografía; Arte Industrial; Producción Audiovisual y Multimedia; Comunicación y Producción en Radio y Televisión; Diseño del Paisaje; Cine y Video; Comunicación Escénica para televisión
+Ciencias_Sociales Psicología en general;  Trabajo Social;  Idiomas;  Educación Internacional;  Historia y Geografía;  Periodismo;  Periodismo Digital; Derecho;  Ciencias Políticas;  Sociología;  Antropología;  Arqueología;  Gestión Social y Desarrollo;  Consejería Familiar;  Comunicación y Publicidad;  Administración Educativa;  Educación Especial;  Psicopedagogía;  Estimulación Temprana;  Traducción Simultánea;  Lingüística;  Educación de Párvulos;  Bibliotecología;  Museología;  Relaciones Internacionales y Diplomacia;  Comunicación Social con mención en Marketing y Gestión de Empresas;  Redacción Creativa y Publicitaria;  Relaciones Públicas y Comunicación Organizacional; Hotelería y Turismo; Teología;  Institución Sacerdotal
+Economica_Administrativa_Y_Financiera Administración de Empresas; Contabilidad; Auditoría; Ventas; Marketing Estratégico; Gestión y Negocios Internacionales; Gestión Empresarial; Gestión Financiera; Ingeniería Comercial; Comercio Exterior; Banca y Finanzas; Gestión de Recursos Humanos; Comunicaciones Integradas en Marketing; Administración de Empresas Ecoturísticas y de Hospitalidad; Ciencias Económicas y Financieras; Administración y Ciencias Políticas; Ciencias Empresariales; Comercio Electrónico; Emprendedores; Gestión de Organismos Públicos (Municipios,Ministerios,etcétera); Gestión de Centros Educativos
+Ciencia_Y_Tecnologia Ingeniería en Sistemas Computacionales;  Geología;  Ingeniería Civil;  Arquitectura;  Electrónica;  Telemática;  Telecomunicaciones;  Ingeniería Mecatrónica (Robótica);  Imagen y Sonido;  Minas;  Petróleo y Metalurgia;  Ingeniería Mecánica;  Ingeniería Industrial;  Física;  Matemáticas Aplicadas;  Ingeniería en Estadística;  Ingeniería Automotriz;  Biotecnología Ambiental;  Ingeniería Geográfica;  Carreras Militares (Marina,  Aviación,  Ejército);  Ingeniería en Costas y Obras Portuarias;  Estadística Informática;  Programación y Desarrollo de Sistemas;  Tecnología en Informática Educativa;  Astronomía;  Ingeniería en Ciencias Geográficas y Desarrollo Sustentable
+Ciencias_Ecologicas_Biologicas_Y_De_La_Salud Biología;  Bioquímica;  Farmacia;  Biología Marina;  Bioanálisis;  Biotecnología;  Ciencias Ambientales;  Zootecnia;  Veterinaria;  Nutrición y Estética; Cosmetología;  Dietética y Estética;  Medicina;  Obstetricia;  Urgencias Médicas;  Odontología;  Enfermería;  Tecnología;  Oceanografía y Ciencias Ambientales;  Médica;  Agronomía;  Horticultura y Fruticultura;  Ingeniería de Alimentos;  Gastronomía;  Chef;  Cultura Física;  Deportes y Rehabilitación;  Gestión Ambiental;  Ingeniería Ambiental;  Optometría;  Homeopatía;  Reflexología
+1 Diseñar programas de computación y explorar nuevas aplicaciones tecnológicas para uso del internet  Ciencia_Y_Tecnologia
+2 Criar, cuidar y tratar animales domésticos y de campo  Ciencias_Ecologicas_Biologicas_Y_De_La_Salud
+3 Investigar sobre áreas verdes, medio ambiente y cambios climáticos  Ciencias_Ecologicas_Biologicas_Y_De_La_Salud
+4 Ilustrar, dibujar y animar digitalmente  Arte_Y_Creatividad
+5 Seleccionar, capacitar y motivar al personal de una organización/empresa  Economica_Administrativa_Y_Financiera
+6 Realizar excavaciones para descubrir restos del pasado  Ciencias_Sociales
+7 Resolver problemas de cálculo para construir un puente  Ciencia_Y_Tecnologia
+8 Diseñar cursos para enseñar a la gente sobre temas de salud e higiene  Ciencias_Ecologicas_Biologicas_Y_De_La_Salud
+9 Tocar un instrumento y componer música  Arte_Y_Creatividad
+10 Planificar cuáles son las metas de una organización pública o privada a mediano y largo plazo  Economica_Administrativa_Y_Financiera
+11 Diseñar y planificar la producción masiva de artículos como muebles, autos, equipos de oficina, empaques y envases para alimentos y otros  Ciencia_Y_Tecnologia
+12 Diseñar logotipos y portadas de una revista  Arte_Y_Creatividad
+13 Organizar eventos y atender a sus asistentes  Economica_Administrativa_Y_Financiera
+14 Atender la salud de personas enfermas  Ciencias_Ecologicas_Biologicas_Y_De_La_Salud
+15 Controlar ingresos y egresos de fondos y presentar el balance final de una institución  Economica_Administrativa_Y_Financiera
+16 Hacer experimentos con plantas frutas, árboles, flores  Ciencias_Ecologicas_Biologicas_Y_De_La_Salud
+17 Concebir planos para viviendas, edificios y ciudadelas  Ciencia_Y_Tecnologia
+18 Investigar y probar nuevos productos farmacéuticos  Ciencias_Ecologicas_Biologicas_Y_De_La_Salud
+19 Hacer propuestas y formular estrategias para aprovechar las relaciones económicas entre dos países  Economica_Administrativa_Y_Financiera
+20 Pintar, hacer esculturas, ilustrar libros de arte, etcétera  Arte_Y_Creatividad
