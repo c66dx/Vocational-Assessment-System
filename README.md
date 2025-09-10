@@ -5,31 +5,18 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-2.0-brightgreen.svg)](https://github.com/tu-usuario/testVocacional)
 
-Una aplicación de escritorio moderna y profesional desarrollada en Java que ayuda a los usuarios a descubrir sus áreas de interés profesional mediante un test vocacional interactivo, intuitivo y visualmente atractivo.
+Una aplicación de escritorio desarrollada en Java que ayuda a los usuarios a descubrir sus áreas de interés profesional mediante un test vocacional.
 
 ## ✨ Características Principales
 
-### 🎨 **Interfaz Moderna**
-- **Diseño profesional** con paleta de colores moderna (Bootstrap-inspired)
-- **Tipografía Segoe UI** para una experiencia visual premium
-- **Efectos hover** y transiciones suaves en todos los componentes
-- **Diseño responsivo** que se adapta al contenido
-
 ### 📊 **Sistema de Evaluación Avanzado**
-- **20 preguntas** cuidadosamente seleccionadas
+- **20 preguntas** 
 - **5 áreas vocacionales** principales:
   - 🎨 **Arte y Creatividad** - Diseño, artes plásticas, multimedia
   - 👥 **Ciencias Sociales** - Psicología, educación, derecho
   - 💼 **Económica-Administrativa** - Negocios, finanzas, marketing
   - 🔬 **Ciencia y Tecnología** - Ingeniería, informática, investigación
   - 🌱 **Ciencias Ecológicas y de la Salud** - Medicina, biología, ambiente
-
-### 🚀 **Experiencia de Usuario**
-- **Barra de progreso visual** que muestra el avance del test
-- **Navegación intuitiva** con botones Anterior/Siguiente
-- **Resultados detallados** con tarjetas interactivas
-- **Cálculo de porcentajes** preciso por área
-- **Diálogo de profesiones** moderno y organizado
 
 ## 🎯 Capturas de Pantalla
 
@@ -144,13 +131,6 @@ run.bat / run.sh                    # 🚀 Scripts de ejecución
 | 🎨 **Look & Feel** | Diseño moderno | Custom |
 | 📁 **File I/O** | Gestión de datos | Nativo |
 
-### 🎨 **Características de Diseño**
-
-- **Paleta de colores**: Bootstrap-inspired (#007BFF, #28A745, #6C757D)
-- **Tipografía**: Segoe UI para Windows, San Francisco para macOS
-- **Componentes**: Botones con efectos hover, tarjetas con sombras
-- **Animaciones**: Transiciones suaves entre pantallas
-
 ## 📊 Algoritmo de Evaluación
 
 ### 🔢 **Cálculo de Puntuaciones**
@@ -168,65 +148,3 @@ Preguntas del área: 4
 Respuestas positivas: 3
 Porcentaje: (3/4) × 100 = 75%
 ```
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Para contribuir:
-
-1. 🍴 **Fork** el repositorio
-2. 🌿 **Crea** una rama (`git checkout -b feature/nueva-funcionalidad`)
-3. 💾 **Commit** tus cambios (`git commit -m 'Añadir nueva funcionalidad'`)
-4. 📤 **Push** (`git push origin feature/nueva-funcionalidad`)
-5. 🔄 **Abre** un Pull Request
-
-### 🎯 Roadmap y Mejoras Futuras
-
-- [ ] 🌐 **Migración a JavaFX** para interfaz más moderna
-- [ ] 🗄️ **Base de datos** SQLite para gestión avanzada
-- [ ] 📱 **Versión web** con Spring Boot
-- [ ] 📊 **Análisis estadístico** avanzado
-- [ ] 🌍 **Soporte multiidioma** (EN, ES, PT)
-- [ ] 📧 **Exportación de resultados** (PDF, JSON)
-- [ ] 🔐 **Sistema de usuarios** y histórico
-- [ ] 🤖 **IA para recomendaciones** personalizadas
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 👨‍💻 Autor y Reconocimientos
-
-**Desarrollado con ❤️ por Tu Nombre**
-
-- 🐙 [GitHub](https://github.com/tu-usuario)
-- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil)
-- 📧 [Email](mailto:tu.email@ejemplo.com)
-
-### 🙏 Agradecimientos
-
-- Metodologías de orientación vocacional modernas
-- Comunidad de desarrolladores Java
-- Feedback de usuarios beta testers
-- Inspiración en mejores prácticas de UX/UI
-
-## 📊 Estadísticas del Proyecto
-
-- **Líneas de código**: ~1,500+
-- **Clases**: 6 principales
-- **Métodos**: 50+ optimizados
-- **Tiempo de desarrollo**: 2 semanas
-- **Cobertura de pruebas**: En desarrollo
-
----
-
-<div align="center">
-
-**⭐ Si te gusta este proyecto, ¡dale una estrella! ⭐**
-
-[🐛 Reportar Bug](https://github.com/tu-usuario/testVocacional/issues) • [💡 Solicitar Feature](https://github.com/tu-usuario/testVocacional/issues) • [💬 Discusiones](https://github.com/tu-usuario/testVocacional/discussions)
-
----
-
-### 🚀 ¡Descubre tu vocación profesional hoy mismo!
-
-</div>
