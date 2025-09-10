@@ -1,9 +1,8 @@
 package Controlador;
 
-import Modelo.Question;
 import Modelo.Area;
 import Modelo.Profession;
-
+import Modelo.Question;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -44,7 +43,8 @@ public class TestVocationalLogic {
                 questions.add(new Question(questionNumber, description, areaName));
             }
         } catch (IOException e) {
-            e.printStackTrace();
+            System.err.println("Error al cargar el archivo de preguntas: " + e.getMessage());
+            // En una aplicación real, se podría usar un logger apropiado
         }
     }
 
