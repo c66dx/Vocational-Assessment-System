@@ -1,4 +1,4 @@
-# 🎯 Test Vocacional - Orientación Profesional
+# 🎯 Test Vocacional
 
 [![Java](https://img.shields.io/badge/Java-11+-orange.svg)](https://openjdk.java.net/)
 [![Swing](https://img.shields.io/badge/GUI-Java%20Swing-blue.svg)](https://docs.oracle.com/javase/tutorial/uiswing/)
